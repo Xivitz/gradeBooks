@@ -1,0 +1,12 @@
+/Users/mcp/Projects/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.deps.json
+/Users/mcp/Projects/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.runtimeconfig.json
+/Users/mcp/Projects/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.runtimeconfig.dev.json
+/Users/mcp/Projects/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.dll
+/Users/mcp/Projects/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.pdb
+/Users/mcp/Projects/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.csprojAssemblyReference.cache
+/Users/mcp/Projects/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.AssemblyInfoInputs.cache
+/Users/mcp/Projects/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.AssemblyInfo.cs
+/Users/mcp/Projects/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.dll
+/Users/mcp/Projects/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.pdb
+/Users/mcp/Projects/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.csproj.CoreCompileInputs.cache
+/Users/mcp/Projects/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.genruntimeconfig.cache
